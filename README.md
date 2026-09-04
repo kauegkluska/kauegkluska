@@ -1,3 +1,3 @@
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kauegkluska&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauegkluska&theme=github_dark)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauegkluska&layout=donut&theme=dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kauegkluska&theme=github_dark)
