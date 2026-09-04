@@ -1,3 +1,3 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauegkluska&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kauegkluska&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauegkluska&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauegkluska&layout=donut&theme=dark)
